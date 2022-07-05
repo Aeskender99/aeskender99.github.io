@@ -1,0 +1,19 @@
+{
+  "name": "projet3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:CSS/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aeskender99/push.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aeskender99/push/issues"
+  },
+  "homepage": "https://github.com/Aeskender99/push#readme"
+}
