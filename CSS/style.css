@@ -365,6 +365,10 @@ footer .footer__logo {
   max-width: 322px;
 }
 
+.fa-heart {
+  margin-top: 15px;
+}
+
 .fa-heart:before {
   margin-left: 20px;
 }
